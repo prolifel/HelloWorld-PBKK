@@ -1,0 +1,90 @@
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\LatihanMVVM.exe.config
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\LatihanMVVM.exe
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\LatihanMVVM.pdb
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\EntityFramework.dll
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.dll
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\MySql.Data.dll
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\EntityFramework.xml
+D:\PBKK\LatihanMVVM\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csprojAssemblyReference.cache
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\MainWindow.g.cs
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\App.g.cs
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.cache
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.lref
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\MainWindow.baml
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.g.resources
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.Properties.Resources.resources
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.GenerateResource.cache
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CoreCompileInputs.cache
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CopyComplete
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.exe
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.pdb
+D:\PBKK\LatihanMVVM\LatihanMVVM\obj\Debug\LatihanMVVM.Migrations.Initial.resources
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\LatihanMVVM.exe.config
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\LatihanMVVM.exe
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\LatihanMVVM.pdb
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\EntityFramework.dll
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.dll
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\MySql.Data.dll
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\EntityFramework.xml
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.xml
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.csprojAssemblyReference.cache
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\MainWindow.g.cs
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\App.g.cs
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.cache
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.lref
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\MainWindow.baml
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.g.resources
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.Properties.Resources.resources
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.GenerateResource.cache
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CoreCompileInputs.cache
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CopyComplete
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.exe
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.pdb
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\excel deo\SMT 6\PBKK\TugasWPF\mvvm-practice-wpf-main\LatihanMVVM\obj\Debug\LatihanMVVM.Migrations.init.resources
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\LatihanMVVM.exe.config
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\LatihanMVVM.exe
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\LatihanMVVM.pdb
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\EntityFramework.dll
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\MySql.Data.dll
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\EntityFramework.xml
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.csprojAssemblyReference.cache
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\App.g.cs
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.cache
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.lref
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\MainWindow.baml
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.g.resources
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.Properties.Resources.resources
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.GenerateResource.cache
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CoreCompileInputs.cache
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CopyComplete
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.exe
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.pdb
+C:\Users\cleme\source\repos\pbkkcok\jancok\LatihanMVVM\obj\Debug\LatihanMVVM.Migrations.initial.resources
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\LatihanMVVM.exe.config
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\LatihanMVVM.exe
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\LatihanMVVM.pdb
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\EntityFramework.dll
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\MySql.Data.dll
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\EntityFramework.xml
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csprojAssemblyReference.cache
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\App.g.cs
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.cache
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM_MarkupCompile.lref
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\MainWindow.baml
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.g.resources
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.Migrations.initial.resources
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.Properties.Resources.resources
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.GenerateResource.cache
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CoreCompileInputs.cache
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.csproj.CopyComplete
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.exe
+C:\Users\cleme\source\repos\MVVM\LatihanMVVM\obj\Debug\LatihanMVVM.pdb
