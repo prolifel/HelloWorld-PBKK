@@ -32,7 +32,14 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'Home::index');
+$routes->get('/', 'Home::index', ['as' => 'home']);
+$routes->get('/create', 'Home::create', ['as' => 'data.create']);
+$routes->post('/create', 'Home::store', ['as' => 'data.store']);
+
+// update delete pakai ajax
+$routes->get('/get', 'Home::get/$1', ['as' => 'data.get']);
+$routes->put('/edit', 'Home::update/$1', ['as' => 'data.update']);
+$routes->delete('/delete/(:segment)', 'Home::delete/$1', ['as' => 'data.delete']);
 
 /*
  * --------------------------------------------------------------------
