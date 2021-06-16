@@ -129,6 +129,11 @@
                             </tr>
                         </thead>
                         <tbody>
+                            <?php if (!$data):?>
+                                <tr>
+                                    <td colspan="6">Tidak ada data</td>
+                                </tr>
+                            <?php endif;?>
                             <?php foreach ($data as $row) : ?>
                                 <tr>
                                     <td><?= $row['nrp'] ?></td>
