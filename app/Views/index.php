@@ -41,16 +41,16 @@
 
 <body>
     <!-- Modal Edit -->
-    <div class="modal fade" id="modalEdit" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal fade" id="modal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content" style="height: fit-content;">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="modalLabel">Edit Data</h5>
+                    <h5 class="modal-title" id="modalLabel"></h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <form method="POST" id="formEdit">
+                <form method="POST" id="form">
                     <div class="modal-body">
                         <div class="dragArea row">
                             <input type="text" name="id" id="id" hidden>
@@ -107,8 +107,7 @@
                     <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2">
                         <strong>Data Mahasiswa</strong>
                     </h3>
-                    <!-- TODO: Tambahin route tambah data -->
-                    <a class="mbr-section-btn btn btn-primary display-4" href="<?= route_to('data.create') ?>">Tambah Data</a>
+                    <button class="mbr-section-btn btn btn-primary display-4" type="button" onclick="addData()" data-toggle="modal" data-target="#modal">Tambah Data</button>
                 </div>
             </div>
         </div>
@@ -134,11 +133,11 @@
                                 <tr>
                                     <td><?= $row['nrp'] ?></td>
                                     <td><?= $row['name'] ?></td>
-                                    <td><?= $row['address'] ?></td>
+                                    <td style="width: 20%;"><?= $row['address'] ?></td>
                                     <td><?= $row['department'] ?></td>
                                     <td><?= $row['phone'] ?></td>
                                     <td>
-                                        <button class="mbr-section-button btn btn-warning" type="button" onclick="updateData('<?= $row['name']?>')" data-toggle="modal" data-target="#modalEdit" >Edit</button>
+                                        <button class="mbr-section-button btn btn-warning" type="button" onclick="addData('<?= $row['id'] ?>')" data-toggle="modal" data-target="#modal">Edit</button>
                                         <button class="mbr-section-button btn btn-danger" type="button" onclick="deleteData('<?= $row['id'] ?>', '<?= $row['name'] ?>')">Hapus</button>
                                     </td>
                                 </tr>
@@ -178,52 +177,7 @@
     <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
 
-    <script>
-        $(document).ready(function() {
-            $('#dtBasicExample').DataTable();
-            $('.dataTables_length').addClass('bs-select');
-        });
-
-        function updateData(name) {
-            $('#modalLabel').text('Edit Data ' + name)
-
-            $('#formEdit').submit(function(e) {
-                e.preventDefault;
-                $.ajax({
-                    type: "PUT",
-                    url: "<?= route_to('data.update') ?>",
-                    data: $(this).serialize(),
-                    dataType: "JSON",
-                    success: function(response) {
-                        let jsonData = JSON.parse(response);
-                        $('#modalEdit').modal('hide');
-                        alert('Data ' + name + ' berhasil diedit!');
-                    },
-                    error: function(jqXHR, textStatus, errorThrown) {
-                        alert('Data ' + name + ' tidak berhasil diedit. Silakan coba kembali!');
-                    }
-                });
-            })
-        };
-
-        function deleteData(id, name) {
-            console.log(id, name)
-            if (confirm('Apakah anda yakin untuk menghapus data ' + name)) {
-                $.ajax({
-                    type: "DELETE",
-                    url: "<?= base_url('/delete') ?>" + "/" + id,
-                    dataType: "JSON",
-                    success: function(data) {
-                        location.reload();
-                    },
-                    error: function(jqXHR, textStatus, errorThrown) {
-                        alert('Data gagal dihapus! Silakan coba kembali!');
-                    }
-                });
-            }
-
-        };
-    </script>
+    <script src="assets/js/app.js"></script>
 </body>
 
 </html>

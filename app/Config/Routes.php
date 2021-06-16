@@ -35,10 +35,8 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index', ['as' => 'home']);
 $routes->get('/create', 'Home::create', ['as' => 'data.create']);
 $routes->post('/create', 'Home::store', ['as' => 'data.store']);
-
-// update delete pakai ajax
-$routes->get('/get', 'Home::get/$1', ['as' => 'data.get']);
-$routes->put('/edit', 'Home::update/$1', ['as' => 'data.update']);
+$routes->get('/get/(:segment)', 'Home::get/$1', ['as' => 'data.get']);
+$routes->post('/edit', 'Home::edit', ['as' => 'data.edit']);
 $routes->delete('/delete/(:segment)', 'Home::delete/$1', ['as' => 'data.delete']);
 
 /*

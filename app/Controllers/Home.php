@@ -21,20 +21,43 @@ class Home extends BaseController
 
 	public function store()
 	{
-		# code...
+		$studentModel = new StudentModel();
+		$post = $this->request->getPost();
+
+		$data = [
+			'nrp' => $post['nrp'],
+			'name' => $post['name'],
+			'address' => $post['address'],
+			'department' => $post['department'],
+			'phone' => $post['phone'],
+		];
+
+		$studentModel->insert($data);
+
+		echo json_encode(array('status' => TRUE));
 	}
 
-	public function update()
+	public function get($id)
 	{
 		$studentModel = new StudentModel();
-		$id = $this->request->getPost('id');
-		
+
+		$data = $studentModel->find($id);
+
+		echo json_encode(array($data));
+	}
+
+	public function edit()
+	{
+		$studentModel = new StudentModel();
+		$post = $this->request->getPost();
+
+		$id = $post['id'];
 		$data = [
-			'nrp' => $this->request->getPost('nrp'),
-			'name' => $this->request->getPost('name'),
-			'address' => $this->request->getPost('address'),
-			'department' => $this->request->getPost('department'),
-			'phone' => $this->request->getPost('phone'),
+			'nrp' => $post['nrp'],
+			'name' => $post['name'],
+			'address' => $post['address'],
+			'department' => $post['department'],
+			'phone' => $post['phone'],
 		];
 
 		$studentModel->update($id, $data);
