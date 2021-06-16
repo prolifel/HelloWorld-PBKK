@@ -14,11 +14,6 @@ class Home extends BaseController
 		return view('index', ['data' => $data]);
 	}
 	
-	public function create()
-	{
-		return view('create');
-	}
-
 	public function store()
 	{
 		$studentModel = new StudentModel();
